@@ -22,3 +22,4 @@ Things you may want to cover:
 * Deployment instructions
 
 * This is a finance tracker app from my training course.
+# finance-tracker
